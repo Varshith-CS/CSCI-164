@@ -1,7 +1,6 @@
 # Healthcare Machine Learning Project
 
-**Author:** Jay  
-**Institution:** Fresno State — BS Computer Science, Cybersecurity Specialization  
+**Author:** Varshith Nakkina    
 **Course:** Machine Learning  
 **Due Date:** April 26, 2026
 
