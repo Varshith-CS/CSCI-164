@@ -75,25 +75,6 @@ All models were tuned using `GridSearchCV` or `RandomizedSearchCV` with 5-fold c
 
 ---
 
-## Repository Structure
-
-```
-healthcare-ml-project/
-│
-├── healthcare_ml_project.ipynb   # Main Jupyter notebook — all code, outputs, and analysis
-├── healthcare_ml_report.docx     # Summary report — methods, results, literature comparison
-├── healthcare_ml_slides.pptx     # 9-slide presentation deck
-├── speaker_notes.docx            # Speaker notes for the 10-minute presentation
-│
-├── diabetes.csv                  # Pima Indians Diabetes dataset
-├── heart_cleveland_upload.csv    # Cleveland Heart Disease dataset
-├── insurance.csv                 # Medical Insurance Costs dataset
-│
-└── README.md                     # This file
-```
-
----
-
 ## How to Run the Notebook
 
 1. Clone or download this repository
