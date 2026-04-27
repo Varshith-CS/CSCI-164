@@ -2,7 +2,7 @@
 
 **Author:** Varshith Nakkina    
 **Course:** Machine Learning  
-**Due Date:** April 26, 2026
+**Date:** April 26, 2026
 
 ---
 
