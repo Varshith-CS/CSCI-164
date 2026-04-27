@@ -2,7 +2,6 @@
 
 **Author:** Varshith Nakkina    
 **Course:** Machine Learning  
-
 ---
 
 ## Project Overview
